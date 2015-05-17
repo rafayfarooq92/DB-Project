@@ -1,0 +1,143 @@
+.home-page{
+    background-image: url('../images/bg.jpg');
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.content{
+    background-image: url('../images/bg.jpg');
+
+    width: 100%;
+    min-height: 100%;
+}
+.contact_content{
+    height: 300px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 10px 4px black;
+    border-top: 15px solid #f74f0e;
+}
+.contact_content p{
+    padding: 5px;
+}
+.contact_content li{
+    list-style: square;
+}
+
+
+.register{
+    background: white;
+    border-radius: 10px;
+
+}
+.login{
+    background: white;
+    border-radius: 10px;
+}
+.big-text-box{
+    width: 320px !important;
+    height: 30px !important;
+
+}
+.input-prepend{
+    margin-left: 10% !important;
+
+}
+
+.medium-box{
+    width: 200px !important;
+    height: 30px !important;
+    margin-left: 1% !important;
+
+}
+.medium-big-box{
+    width: 240px !important;
+    height: 30px !important;
+    margin-left: 1% !important;
+}
+.button-freelancer{
+    width: 360px !important;
+    height: 40px !important;
+    background-color: #88e69d !important;
+    text-align: center;
+    color:white;
+    border-radius: 7px;
+    margin-left: 6%;
+    margin-bottom: 10px;
+}
+h1,h3{
+    font-family: 'Signika Negative';
+    text-align: center;
+
+}
+.button-company{
+    width: 360px !important;
+    height: 40px !important;
+    background-color: #ff7665 !important;
+    text-align: center;
+    color:white;
+    border-radius: 7px;
+    margin-left: 6%;
+    margin-bottom: 20px;
+}
+textarea,.select_box{
+    width: 360px !important;
+    margin-left: 10%;
+}
+.select_box2{
+    width: 360px !important;
+    margin-left: 5%;
+}
+.round-ball{
+    background-color: #2e2a28;
+    padding: 10px;
+    font-family: 'Signika Negative';
+    font-size: 32px;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    border-radius: 10px;
+    color: #f5f5f5;
+}
+.white_head{
+    color:white;
+}
+input[type='checkbox']{
+    margin-left: 10%;
+}
+.little{
+    margin-left: 20px !important;
+}
+.well{
+    box-shadow: 2px 2px 10px 4px black;
+}
+.message{
+    padding: 10px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #2e2a28;
+    color:black;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+
+
+}
+.spacer{
+    height: 100px;
+}
+.big-text-box3{
+    width: 320px !important;
+    height: 30px !important;
+
+    margin-left: 10%;
+}
+.little_more{
+    margin-left: 25px !important;
+}
+.table_bg{
+    background-color: white;
+}
